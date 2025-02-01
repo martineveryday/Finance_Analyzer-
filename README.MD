@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the **Finance Analyzer** project! This tool is designed to help you easily load and analyze financial data from CSV files. You can use it to calculate expenses, categorize transactions, and compare income and expenses.
 
-Please note that this is the **first draft**, and the final version is still under development. I appreciate your patience as we continue to refine and improve the tool.
+Please note that this is the **first draft**, and the final version is still under development. I appreciate your patience as I continue to refine and improve the tool.
 
 ## Features
 - Load multiple CSV files containing financial data
@@ -34,6 +34,7 @@ python your_script.py
 - Enhancing error handling
 - Adding support for more file formats
 - Improving user input validation
+- Adding Data Visualization
 
 Stay tuned for updates!
 
